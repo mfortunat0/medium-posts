@@ -1,8 +1,6 @@
-import React from 'react'
-import "./App.css"
+import React from "react";
+import "./App.css";
 
-export default function App(){
-  return(
-    <h1>Hello React</h1>
-  )
+export default function App() {
+  return <h1>Hello React</h1>;
 }
